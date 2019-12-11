@@ -1,6 +1,6 @@
 ### Date created
+
 bikeshare.py
-chicago , new york city and washington in new file to ignore them
 README file.
 
 ### Project Title
