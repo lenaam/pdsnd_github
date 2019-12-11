@@ -1,15 +1,20 @@
 ### Date created
-Include the date you created this project and README file.
+bikeshare.py
+chicago , new york city and washington in new file to ignore them
+README file.
 
 ### Project Title
-Replace the Project Title
+github project
 
 ### Description
-Describe what your project is about and what it does
+contains a python project that shows data about three cities which are chicago , new york city and washington 
 
 ### Files used
-Include the files used
+bikeshare.py
+gitignore
+readme file
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://classroom.udacity.com/nanodegrees/nd104-mena-connect/parts/a5bfe543-c958-4f34-8a88-cfc2db642612/modules/90163ae6-479b-42ef-a088-e5c5f4c10101/lessons/94a39a0a-c6ae-450a-80ab-e6ff134e586e/concepts/63a6f935-dea7-43c2-aaa3-61deea5070c8
+
 
