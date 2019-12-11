@@ -1,5 +1,5 @@
 ### Date created
-bikeshare.py
+bikeshare.py 
 cities data
 README file.
 
@@ -8,6 +8,7 @@ git & github project
 
 ### Description
 contains a python project that shows data about three cities which are chicago , new york city and washington 
+it shows to user what city that he wants to see its data
 
 ### Files used
 bikeshare.py
